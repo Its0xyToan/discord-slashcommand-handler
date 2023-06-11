@@ -1,0 +1,6 @@
+{
+    "permission": {
+        "base": ":x: You don't have the `{perm}` permission to do that !",
+        "NOTE": "Add {perm} to say the discord permission name !"
+    }
+}
