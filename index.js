@@ -40,4 +40,4 @@ function getPermissionName(value) {
     return Object.keys(object).find(key => object[key] === value);
 }
 
-client.login("MTA3MTc5NzM1Nzk4Mjc4OTcwMg.GSmi73.3q8J04RwQRtlMY8S4XetThfeRUaweoSVCeMpkA")
+client.login("TOKEN")
