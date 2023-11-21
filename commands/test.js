@@ -1,7 +1,7 @@
 const { ApplicationCommandOptionType, PermissionsBitField } = require("discord.js")
 
 
-class Command {
+module.exports = class {
     constructor() {
         this.name = "test"
         this.description = "Say a message"
@@ -24,5 +24,3 @@ class Command {
 
     }
 }
-
-module.exports = Command
